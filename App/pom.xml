@@ -6,9 +6,9 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>Abbyy.Ocrsdk.client</groupId>
-			<artifactId>Abbyy.Ocrsdk.client</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>Abbyy-client</groupId>
+			<artifactId>Abbyy-client</artifactId>
+			<version>0.1</version>
 		</dependency>
 
 		<dependency>
